@@ -1,12 +1,15 @@
 ---
 layout: post
-title: "Lecture 1: Review of Statistics"
+title: "Chapter 1: Review of Statistics"
 author: "partha"
 categories: projects
 caption: Review of Statistics for Econometrics I
 tags: [Statistics, Random Variables, Estimation, Inference]
 ---
   This chapter reviews statistics required for first course in econometrics. It is important to thoroughly understand concepts here before getting into econometrics syllabus.
+<hr />
+### Notes
+- [Class Notes]({{site.github.url}}/pages/lecture_notes/chapter1.html)
 <hr />
 ### Slides
 - [Lecture Slides]({{site.github.url}}/docs/ch0/econ_rsic_mumbai.pdf)

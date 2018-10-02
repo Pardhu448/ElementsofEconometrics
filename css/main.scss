@@ -18,13 +18,15 @@ $header-thickness: 56px;
 
 // Importing Sass/SCSS partials from `sass_dir` (defaults to `_sass`)
 @import "base",
-        "site-container",
         "header",
         "home-page",
+	"site-container",
         "article-page",
         "social-icons",
         "footer",
         "code",
 	"home-grid",
 	"slideshow",
-	"projects-grid";
+	"projects-grid",
+	"cp",
+	"pygment";
