@@ -23,6 +23,5 @@ tags: [Statistics, Random Variables, Estimation, Inference]
 - Estimation : R18, R19
 - Hypothesis Testing : R23
 <hr />
-### Python exercises
-- Install Anaconda Python - [link](https://conda.io/docs/user-guide/)
-- Go through introduction to Jupyter notebook (Ignore autograder parts)- [link](https://www.youtube.com/watch?time_continue=330&v=6wR5mDycDww) 
+### End of Chapter Assignment
+- [Assignment 1]({{site.github.url}}/docs/ch0/assignment_1.pdf)
