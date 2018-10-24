@@ -12,7 +12,7 @@ tags: [Statistics, Random Variables, Estimation, Inference]
 - [Class Notes]({{site.github.url}}/pages/lecture_notes/chapter3.html)
 <hr />
 ### Slides
-- [Lecture Slides]({{site.github.url}}/docs/ch1/properties_of_slrm.pdf)
+- [Lecture Slides]({{site.github.url}}/docs/ch3/properties_of_slrm.pdf)
 - [Slides on Confidence Intervals from Dougherty]({{site.github.url}}/docs/ch3/dougherty5e_confidence_intervals.pdf)
 - [Slides on F tests from Dougherty]({{site.github.url}}/docs/ch3/dougherty5e_f_tests.pdf)
 - [Slides on Hypothesis tests from Dougherty]({{site.github.url}}/docs/ch3/dougherty5e_hypothesis_tests.pdf)
